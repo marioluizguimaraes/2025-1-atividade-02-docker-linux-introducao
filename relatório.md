@@ -1,8 +1,8 @@
 # S.O. 2025.1 - Atividade 02 - Introdução a linux usando docker no windows
 
-### Nome: Rebeca Noemi Silva Ferreira
+### Nome: Mário Luiz Silva Guimarães
 
-### Data: 02/05/2025
+### Data: 12/06/2025
 
 ## Introdução:
 
